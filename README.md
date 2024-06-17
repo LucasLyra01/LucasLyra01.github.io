@@ -7,9 +7,9 @@ O portifólio pessoal foi feito com responsividade total, responsividade para to
 [Demo Here](https://lucaslyra01.github.io/)
 
 
-## Contact
+## Contato
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+Se quiser entrar em contato comigo, acesse meu [Linkedin](https://www.linkedin.com/in/lucas-lyra-4633672bb/).
 
 ## License
 
